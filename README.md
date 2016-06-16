@@ -50,4 +50,4 @@ Basically, what I did is just call cnn_imagenet_init to get alexnet and overwrit
 
 As I tested, finetuning from pretrained alexnet converges faster than from scratch.
 
-Feel free to change to finetune over nets.
+Feel free to change to finetune other nets.
